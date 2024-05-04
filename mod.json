@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.25",
+	"gd": {
+		"mac": "2.200",
+		"android": "2.205",
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "supkittymeow.spinnyMenu",
+	"name": "Spinny Menu",
+	"developer": "SupKittyMeow",
+	"description": "Adds a button to rotate the entire screen by 10 degrees with each click."
+}

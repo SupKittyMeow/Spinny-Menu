@@ -1,3 +1,0 @@
-/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate.dir
-/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/CMakeFiles/edit_cache.dir
-/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/CMakeFiles/rebuild_cache.dir
