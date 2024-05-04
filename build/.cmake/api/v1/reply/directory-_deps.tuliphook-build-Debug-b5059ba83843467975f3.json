@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/tuliphook-build",
+		"source" : "/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-src"
+	}
+}

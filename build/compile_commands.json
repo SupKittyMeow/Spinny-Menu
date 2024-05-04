@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/maxpersonal/Downloads/Spinny Menu/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCommentType=CommentTypeDummy -DGEODE_COMP_GD_VERSION=22000 -DGEODE_GD_VERSION=2.200 -DGL_SILENCE_DEPRECATION -DMAT_JSON_DYNAMIC=1 -DPROJECT_NAME=SpinnyMenu -DSpinnyMenu_EXPORTS -I\"/Users/maxpersonal/Downloads/Spinny Menu/build/bindings/bindings\" -I/Users/Shared/Geode/sdk/loader/include -I/Users/Shared/Geode/sdk/loader/include/Geode/cocos/include -I/Users/Shared/Geode/sdk/loader/include/Geode/cocos/extensions -I/Users/Shared/Geode/sdk/loader/include/Geode/fmod -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/filesystem-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/result-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/json-src/include\" -g -std=gnu++20 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fPIC -fvisibility=hidden -ffunction-sections -fdata-sections -Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang \"/Users/maxpersonal/Downloads/Spinny Menu/build/CMakeFiles/SpinnyMenu.dir/cmake_pch_x86_64.hxx\" -x c++-header -o CMakeFiles/SpinnyMenu.dir/cmake_pch_x86_64.hxx.pch -c \"/Users/maxpersonal/Downloads/Spinny Menu/build/CMakeFiles/SpinnyMenu.dir/cmake_pch_x86_64.hxx.cxx\"",
+  "file": "/Users/maxpersonal/Downloads/Spinny Menu/build/CMakeFiles/SpinnyMenu.dir/cmake_pch_x86_64.hxx.cxx",
+  "output": "CMakeFiles/SpinnyMenu.dir/cmake_pch_x86_64.hxx.pch"
+},
+{
+  "directory": "/Users/maxpersonal/Downloads/Spinny Menu/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCommentType=CommentTypeDummy -DGEODE_COMP_GD_VERSION=22000 -DGEODE_GD_VERSION=2.200 -DGL_SILENCE_DEPRECATION -DMAT_JSON_DYNAMIC=1 -DPROJECT_NAME=SpinnyMenu -DSpinnyMenu_EXPORTS -I\"/Users/maxpersonal/Downloads/Spinny Menu/build/bindings/bindings\" -I/Users/Shared/Geode/sdk/loader/include -I/Users/Shared/Geode/sdk/loader/include/Geode/cocos/include -I/Users/Shared/Geode/sdk/loader/include/Geode/cocos/extensions -I/Users/Shared/Geode/sdk/loader/include/Geode/fmod -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/filesystem-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/result-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/json-src/include\" -g -std=gnu++20 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fPIC -fvisibility=hidden -ffunction-sections -fdata-sections -Winvalid-pch -Xarch_x86_64 \"-include/Users/maxpersonal/Downloads/Spinny Menu/build/CMakeFiles/SpinnyMenu.dir/cmake_pch_x86_64.hxx\" -o CMakeFiles/SpinnyMenu.dir/src/main.cpp.o -c \"/Users/maxpersonal/Downloads/Spinny Menu/Spinny Menu/src/main.cpp\"",
+  "file": "/Users/maxpersonal/Downloads/Spinny Menu/Spinny Menu/src/main.cpp",
+  "output": "CMakeFiles/SpinnyMenu.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/maxpersonal/Downloads/Spinny Menu/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCommentType=CommentTypeDummy -DGEODE_COMP_GD_VERSION=22000 -DGEODE_GD_VERSION=2.200 -DGL_SILENCE_DEPRECATION -DMAT_JSON_DYNAMIC=1 -DPROJECT_NAME=SpinnyMenu -DSpinnyMenu_EXPORTS -I\"/Users/maxpersonal/Downloads/Spinny Menu/build/bindings/bindings\" -I/Users/Shared/Geode/sdk/loader/include -I/Users/Shared/Geode/sdk/loader/include/Geode/cocos/include -I/Users/Shared/Geode/sdk/loader/include/Geode/cocos/extensions -I/Users/Shared/Geode/sdk/loader/include/Geode/fmod -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/filesystem-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/result-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/json-src/include\" -g -std=gnu++20 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fPIC -fvisibility=hidden -ffunction-sections -fdata-sections -Winvalid-pch -Xarch_x86_64 \"-include/Users/maxpersonal/Downloads/Spinny Menu/build/CMakeFiles/SpinnyMenu.dir/cmake_pch_x86_64.hxx\" -o CMakeFiles/SpinnyMenu.dir/Users/Shared/Geode/sdk/entry.cpp.o -c /Users/Shared/Geode/sdk/entry.cpp",
+  "file": "/Users/Shared/Geode/sdk/entry.cpp",
+  "output": "CMakeFiles/SpinnyMenu.dir/Users/Shared/Geode/sdk/entry.cpp.o"
+},
+{
+  "directory": "/Users/maxpersonal/Downloads/Spinny Menu/build/geode",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/filesystem-src/include\" -g -std=gnu++20 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=10.15 -fvisibility=hidden -o CMakeFiles/GeodeFilesystemImpl.dir/FilesystemImpl.cpp.o -c /Users/Shared/Geode/sdk/FilesystemImpl.cpp",
+  "file": "/Users/Shared/Geode/sdk/FilesystemImpl.cpp",
+  "output": "geode/CMakeFiles/GeodeFilesystemImpl.dir/FilesystemImpl.cpp.o"
+},
+{
+  "directory": "/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/include\" -g -std=gnu++20 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=10.15 -fvisibility=hidden -o CMakeFiles/fmt.dir/src/format.cc.o -c \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/src/format.cc\"",
+  "file": "/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/src/format.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o"
+},
+{
+  "directory": "/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/include\" -g -std=gnu++20 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=10.15 -fvisibility=hidden -o CMakeFiles/fmt.dir/src/os.cc.o -c \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/src/os.cc\"",
+  "file": "/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/src/os.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o"
+},
+{
+  "directory": "/Users/maxpersonal/Downloads/Spinny Menu/build/bindings",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/maxpersonal/Downloads/Spinny Menu/build/bindings/bindings\" -I/Users/Shared/Geode/sdk/loader/include -I/Users/Shared/Geode/sdk/loader/include/Geode/cocos/include -I/Users/Shared/Geode/sdk/loader/include/Geode/cocos/extensions -I/Users/Shared/Geode/sdk/loader/include/Geode/fmod -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/filesystem-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/result-src/include\" -isystem \"/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/json-src/include\" -g -std=gnu++20 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=10.15 -fvisibility=hidden -ffunction-sections -fdata-sections -o CMakeFiles/GeodeBindings.dir/bindings/Geode/GeneratedSource.cpp.o -c \"/Users/maxpersonal/Downloads/Spinny Menu/build/bindings/bindings/Geode/GeneratedSource.cpp\"",
+  "file": "/Users/maxpersonal/Downloads/Spinny Menu/build/bindings/bindings/Geode/GeneratedSource.cpp",
+  "output": "bindings/CMakeFiles/GeodeBindings.dir/bindings/Geode/GeneratedSource.cpp.o"
+}
+]

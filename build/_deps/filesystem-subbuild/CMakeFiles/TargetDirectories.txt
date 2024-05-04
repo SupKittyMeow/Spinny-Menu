@@ -1,0 +1,3 @@
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/filesystem-subbuild/CMakeFiles/filesystem-populate.dir
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/filesystem-subbuild/CMakeFiles/edit_cache.dir
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/filesystem-subbuild/CMakeFiles/rebuild_cache.dir

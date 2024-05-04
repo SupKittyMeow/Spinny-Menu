@@ -1,0 +1,14 @@
+# Target labels
+ fmt-populate
+# Source files and their labels
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/CMakeFiles/fmt-populate
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/CMakeFiles/fmt-populate.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update.rule

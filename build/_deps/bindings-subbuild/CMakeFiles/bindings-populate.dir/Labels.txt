@@ -1,0 +1,14 @@
+# Target labels
+ bindings-populate
+# Source files and their labels
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate-complete.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update.rule

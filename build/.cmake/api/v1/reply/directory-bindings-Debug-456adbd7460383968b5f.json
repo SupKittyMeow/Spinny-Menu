@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "bindings",
+		"source" : "/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/bindings-src"
+	}
+}

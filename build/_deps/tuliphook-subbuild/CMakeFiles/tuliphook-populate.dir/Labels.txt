@@ -1,0 +1,14 @@
+# Target labels
+ tuliphook-populate
+# Source files and their labels
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate-complete.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-build.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-configure.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-download.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-install.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-mkdir.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-patch.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-test.rule
+/Users/maxpersonal/Downloads/Spinny Menu/build/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-update.rule
